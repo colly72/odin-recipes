@@ -1,2 +1,2 @@
 # odin-recipes
-Test website
+this project is a website built as part of the Odin tutorials
